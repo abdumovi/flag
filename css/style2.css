@@ -1,0 +1,70 @@
+body{
+ background: #202C36;;
+}
+
+
+.flags-item{
+  background: #2B3844;
+}
+.flags-title{
+  background: #2B3844;
+  color: #fff;
+}
+.flags-text{
+  background: #2B3844;
+  color: #fff;
+}
+.flags-des{
+  background: #2B3844;
+}
+#country{
+  background: #2B3844;
+  color: #fff;
+}
+.head-text::before{
+  content: "";
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background: #2B3844;
+  color: #fff;
+  background-size: cover;
+  background-image: url('../img/moon.svg');
+}
+#head{
+  background: #2B3844;
+  color: #fff;
+}
+.head-elements{
+  background: #2B3844;
+  color: #fff;
+}
+.head-title{
+  background: #2B3844;
+  color: #fff;
+}
+.head-text{
+  background: #2B3844;
+  color: #fff;
+}
+.button{
+  background: #2B3844;
+  color: #fff;
+}
+.buton-on{
+  background: #2B3844;
+  color: #fff;
+}
+.input{
+  background: #2B3844;
+  color: #fff;
+}
+.search{
+  background: #2B3844;
+  color: #fff;
+}
+input[placeholder]{
+  color: #fff;
+}
